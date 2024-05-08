@@ -39,7 +39,7 @@ function App () {
 
     }catch(err){
       console.log(err); 
-      
+      alert('failed to fetch data')
     }   
   }
 
